@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/pause:2.0
+FROM k8s.gcr.io/pause-amd64:3.1
