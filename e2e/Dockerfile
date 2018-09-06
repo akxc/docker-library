@@ -1,0 +1,1 @@
+FROM quay.io/kubernetes-ingress-controller/e2e:v08042018-e2f5d90
